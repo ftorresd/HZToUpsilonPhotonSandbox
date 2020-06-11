@@ -13,3 +13,4 @@ dependencies:
     - zfit
     - awkward
     - uproot
+    - seaborn
