@@ -6,7 +6,7 @@ dependencies:
   - root
   - uproot 
   - coffea
-  - awkward -
+  - awkward
   - zfit
   - matplotlib
   - pandas
