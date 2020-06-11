@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - root
+  - uproot 
+  - coffea
+  - awkward -
+  - zfit
+  - matplotlib
+  - pandas
+  
