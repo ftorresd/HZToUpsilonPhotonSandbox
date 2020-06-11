@@ -1,6 +1,6 @@
 # HZUpsilonPhoton
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ftorresd/HZToUpsilonPhotonSandbox/master)
 
 ## Zech's Energy Test
  - Seminal paper: https://arxiv.org/abs/hep-ex/0203010
