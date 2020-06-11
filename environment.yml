@@ -1,4 +1,4 @@
-name: example-environment
+name: HZUpsilonPhotonEnv
 channels:
   - conda-forge
 dependencies:
@@ -10,4 +10,3 @@ dependencies:
   - zfit
   - matplotlib
   - pandas
-  
